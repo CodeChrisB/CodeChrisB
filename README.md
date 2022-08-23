@@ -1,6 +1,6 @@
 ### Hi there, I'm Christopher👋
 
-## I'm a Frotend Developer
+## I'm a Frontend Developer
 
 
 ### Connect with me:
